@@ -1,1 +1,1 @@
-Job.create(title: "hello", location: "test", salary: "run")
+Job.create(title: "hi", location: "test 2", salary: "run 2")
