@@ -45,6 +45,5 @@ class JobsController < ApplicationController
     render json: { message: "Job successfully deleted" }
   end
 
-
 end
 
